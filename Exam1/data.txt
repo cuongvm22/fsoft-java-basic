@@ -1,0 +1,13 @@
+1, thanh xuan, hus
+1, thanh xuan, hus
+2, ng trai, ussh
+end
+1, ng van a, 18, 9.1
+2, ng van b, 19,8.0
+3, nguyen son tong, 20, 6.0
+end
+1, ng van c, 19, 7.9
+2, ng van B, 18,8.9
+end
+ussh
+ng
